@@ -21,7 +21,6 @@
           "--std=c++17",
           "-I${workspaceRoot}/dependencies/GLFW/include",
           "-I${workspaceFolder}/dependencies/GLAD/include",
-          "-I${workspaceFolder}/dependencies/GLM",
           "-lopengl32",
           "-L${workspaceRoot}/dependencies/GLFW/lib-mingw",
           "-static",

@@ -28,7 +28,7 @@
       },
       "windows": {
         "program": "${workspaceRoot}/builds/windows/main",
-        "miDebuggerPath": "D://MinGW//bingdb.exe"
+        "miDebuggerPath": "D:\\MinGW\\bing\\gdb.exe"
       },
       "setupCommands": [
         {
